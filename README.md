@@ -3,4 +3,4 @@
 This repository is for my very first Hack Club Blueprint Grant Submission, along with anyone else who wants to watch my progress and build their own 6DOF robot arm.
 
 ## Current Progress
-![ALT Text](.PNG/Screenshot 2026-01-07 141455.png)
+![Master v6 in Fusion Environment](.PNG/PNG-1)
