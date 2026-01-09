@@ -4,4 +4,4 @@ This repository is for my very first Hack Club Blueprint Grant Submission, along
 
 ## Current Progress
 
-! [Robotic_Arm_Master_v6 in Fusion 360 Environment] (.PNG/Screenshot 2026-01-07 141455.png)
+![Robotic_Arm_Master_v6 in Fusion 360 Environment] (.PNG/Screenshot 2026-01-07 141455.png)
