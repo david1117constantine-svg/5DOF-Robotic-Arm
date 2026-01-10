@@ -5,7 +5,7 @@ This repository is for my very first Hack Club Blueprint Grant Submission, along
 ## Current Progress
 *As of January 8th, 2026*
 
-![Master v6 in Fusion Environment](.PNG/Image_1.png)
+![Master v6 in Fusion Environment](PNG/Image_1.png)
 *Fig.1 (Image_1)*
 
 This is the current state of my arm. In *Fig.1*, the Forearm is a copy of the Upper Arm for visualization purposes. 
