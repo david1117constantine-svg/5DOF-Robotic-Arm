@@ -1,5 +1,9 @@
 # Journal Backlog: October 24th, 2025 - January 8th 2026
 
+## 12/1/2025: The Waist Continues!!!
+
+
+
 ## 11/30/2025: Locking in; Waist progressing smoothly
 I decided to start building the arm around these cheap stepper motors I found in my school's computer lab, specifically the 28-BYJ-48 with ULN2003 drivers. They seem pretty cheap, so that is good for my budget, which is basically nothing. Added the ribbing on the side for effect, looks cool, I think, and maybe it provides marginal support theoretically. Using little holes i measured out that you can pop nuts into, and then you get threads, cheaper and more accessible than heatset inserts; also less permanent. The only hardware I have right now is what is left from the 3D printer build. It won't last me the entire build, but for now, it will have to do.
 
@@ -12,6 +16,10 @@ You may be able to see a little bit of material that sticks out around the screw
 <img width="586" height="493" alt="Screenshot 2026-01-13 204302" src="https://github.com/user-attachments/assets/400df47f-18f7-4cb0-907b-289c91c2aaaf" />
 
 Cool design feature I should mention. For now, I am sticking with the extrusions for a simple solution to a base/mount for the arm. I designed the waist with the idea of multiple mounting options in mind. There is an X pattern of crews and a circular depression in the bottom of the waist, allowing it to be connected to many mounting solutions. Still brainstorming how the actual waist joint is going to stay in place, planning on buying bearings of some sort for the spinning aspect, but we will see, I guess.
+
+Here it is on the printer, complete I might add.
+
+![IMG_5877](https://github.com/user-attachments/assets/265ff6ee-b27a-4ab8-9124-c74bf45df07a)
 
 ## 11/29/2025: Tuning, Tuning, Tuning; Ready to print 1st part of the Arm!
 Designed a base piece that would connect the extrusions and bolt onto whatever the design for the Waise Joint will be. The first print came out fine, needed some clearance fixes though, went back into cad and it's all good now!
