@@ -1,13 +1,13 @@
 # Journal Backlog: October 24th, 2025 - January 8th 2026
 
+## 12/4/2025: 
+
 ## 12/1/2025: The Waist Continues!!!
 Started printing the next couple of pieces. The inside of the waist is closed off with a type of cap, which also has a tray on top for the bearing to sit in and be screwed into place. 
 
 <img width="1279" height="918" alt="Screenshot 2026-01-18 104253" src="https://github.com/user-attachments/assets/09f5554c-cf89-43a5-a229-68a065264809" />
 
 <img width="1064" height="686" alt="image" src="https://github.com/user-attachments/assets/504fc172-d46d-43a6-a143-6da41dfd1137" />
-
-
 
 ## 11/30/2025: Locking in; Waist progressing smoothly
 I decided to start building the arm around these cheap stepper motors I found in my school's computer lab, specifically the 28-BYJ-48 with ULN2003 drivers. They seem pretty cheap, so that is good for my budget, which is basically nothing. Added the ribbing on the side for effect, looks cool, I think, and maybe it provides marginal support theoretically. Using little holes i measured out that you can pop nuts into, and then you get threads, cheaper and more accessible than heatset inserts; also less permanent. The only hardware I have right now is what is left from the 3D printer build. It won't last me the entire build, but for now, it will have to do.
