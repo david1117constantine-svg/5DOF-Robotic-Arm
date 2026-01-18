@@ -1,6 +1,11 @@
 # Journal Backlog: October 24th, 2025 - January 8th 2026
 
 ## 12/1/2025: The Waist Continues!!!
+Started printing the next couple of pieces. The inside of the waist is closed off with a type of cap, which also has a tray on top for the bearing to sit in and be screwed into place. 
+
+<img width="1279" height="918" alt="Screenshot 2026-01-18 104253" src="https://github.com/user-attachments/assets/09f5554c-cf89-43a5-a229-68a065264809" />
+
+<img width="1064" height="686" alt="image" src="https://github.com/user-attachments/assets/504fc172-d46d-43a6-a143-6da41dfd1137" />
 
 
 
@@ -17,7 +22,7 @@ You may be able to see a little bit of material that sticks out around the screw
 
 Cool design feature I should mention. For now, I am sticking with the extrusions for a simple solution to a base/mount for the arm. I designed the waist with the idea of multiple mounting options in mind. There is an X pattern of crews and a circular depression in the bottom of the waist, allowing it to be connected to many mounting solutions. Still brainstorming how the actual waist joint is going to stay in place, planning on buying bearings of some sort for the spinning aspect, but we will see, I guess.
 
-Here it is on the printer, complete I might add.
+Here it is on the printer, complete, I might add.
 
 ![IMG_5877](https://github.com/user-attachments/assets/265ff6ee-b27a-4ab8-9124-c74bf45df07a)
 
