@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\david\OneDrive\Documents\Robot Arm Project\5DOF-Robotic-Arm-PCB_MK1\5DOF-Robotic-Arm-PCB_MK1.kicad_sch</source>
+    <date>2026-01-13T23:16:12-0500</date>
+    <tool>Eeschema 9.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>5DOF-Robotic-Arm-PCB_MK1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="A1">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <fields>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+        <field name="Description">Pololu Breakout Board, Stepper Driver A4988</field>
+      </fields>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="Pololu Breakout Board Stepper Driver A4988"/>
+      <property name="ki_fp_filters" value="Pololu*Breakout*15.2x20.3mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef9ecf1a-bb22-463a-8c74-242149c8da11</tstamps>
+    </comp>
+    <comp ref="A2">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <fields>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+        <field name="Description">Pololu Breakout Board, Stepper Driver A4988</field>
+      </fields>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="Pololu Breakout Board Stepper Driver A4988"/>
+      <property name="ki_fp_filters" value="Pololu*Breakout*15.2x20.3mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47e1fc7e-8481-422f-a7c8-2343b747711c</tstamps>
+    </comp>
+    <comp ref="A3">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <fields>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+        <field name="Description">Pololu Breakout Board, Stepper Driver A4988</field>
+      </fields>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="Pololu Breakout Board Stepper Driver A4988"/>
+      <property name="ki_fp_filters" value="Pololu*Breakout*15.2x20.3mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e3cd396-a6e8-4212-802a-ac7a1970acf0</tstamps>
+    </comp>
+    <comp ref="A4">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <fields>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+        <field name="Description">Pololu Breakout Board, Stepper Driver A4988</field>
+      </fields>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="Pololu Breakout Board Stepper Driver A4988"/>
+      <property name="ki_fp_filters" value="Pololu*Breakout*15.2x20.3mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b55bd1c4-80e1-4520-80cd-dd47d1bbe97c</tstamps>
+    </comp>
+    <comp ref="A5">
+      <value>Pololu_Breakout_A4988</value>
+      <footprint>Module:Pololu_Breakout-16_15.2x20.3mm</footprint>
+      <datasheet>https://www.pololu.com/product/2980/pictures</datasheet>
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <fields>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+        <field name="Description">Pololu Breakout Board, Stepper Driver A4988</field>
+      </fields>
+      <libsource lib="Driver_Motor" part="Pololu_Breakout_A4988" description="Pololu Breakout Board, Stepper Driver A4988"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="Pololu Breakout Board Stepper Driver A4988"/>
+      <property name="ki_fp_filters" value="Pololu*Breakout*15.2x20.3mm*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>181a4d7a-1ef4-4ff2-90b6-0f101f757b19</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13c79a96-5e37-4099-8579-46905f727779</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04f9bfea-e8e0-4e3f-94c6-2881257cd4d5</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34b21216-a410-4c9d-b457-abc8627b9b27</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d8ff0bc5-3ce3-4fc4-9ade-c7798e80d1db</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00dc31ac-2d8c-4dc5-8b41-b4a828be1ee5</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00ee50ca-3cf8-47ea-b042-edcb0eb12b35</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3759b7d-fa0e-4ab3-b4b0-df6413e1919e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3483fd66-5ae6-476a-bb0e-ef471954847c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b2c7126-b4d8-4e80-a36b-c511ce6d110b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40bd83ed-165c-4568-abdd-c2c16583510b</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb501b6c-fa89-41e7-a7a0-0f030f743e5b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>C_US</value>
+      <description>capacitor, US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_US" description="capacitor, US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d263fbb6-e79d-4a2f-96f3-2de3106bce7b</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>C_Small_US</value>
+      <description>capacitor, small US symbol</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, small US symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Small_US" description="capacitor, small US symbol"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="C_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c28c5146-f504-4a9e-bbe8-7141cb308f84</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5819</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88525/1n5817.pdf</datasheet>
+      <description>40V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <fields>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+        <field name="Description">40V 1A Schottky Barrier Rectifier Diode, DO-41</field>
+      </fields>
+      <libsource lib="Diode" part="1N5819" description="40V 1A Schottky Barrier Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="diode Schottky"/>
+      <property name="ki_fp_filters" value="D*DO?41*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70ff8d04-2709-4ffa-b0db-e7249aa426c8</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04_Pin</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4b44a83-c018-4f8a-af17-e5a08954238d</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x09_Socket</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x09, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x09, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x09_Socket" description="Generic connector, single row, 01x09, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4192c90-8b59-479a-a524-f97a60b419bc</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Servo 1</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fc309c4-f6d0-4029-b509-cdd7e028373d</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x04_Pin</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8885a3b-e233-4e41-ac01-49668f898f58</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x04</value>
+      <datasheet>~</datasheet>
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x04" description="Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>becf88f9-235c-4348-950e-d8b9bd962799</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x02</value>
+      <datasheet>~</datasheet>
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="screw terminal"/>
+      <property name="ki_fp_filters" value="TerminalBlock*:*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2af0413f-9e92-4446-85b4-e6f2a0292f8d</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x04_Pin</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61b55efb-c618-4c12-9301-a8329eb21f90</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x04_Pin</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d7e25f3-575c-4c3b-988e-1170b526e666</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Conn_01x04_Pin</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9295325e-086f-47b5-a037-ae1d3ef09e67</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>Servo 2</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Pin" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b5ad43d-eb29-4c8a-b952-e7e2cdc7f841</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Conn_01x03_Socket</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>84100a64-17c0-4e44-b6d5-91158349bb6f</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Conn_01x03_Socket</value>
+      <datasheet>~</datasheet>
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <fields>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_1x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d5b84927-b9be-47c5-a3fc-3bc841d6a474</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>ESP32-S2-DevKitC-1</value>
+      <footprint>PCM_Espressif:ESP32-S2-DevKitC-1</footprint>
+      <datasheet>https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-s2-devkitc-1.html</datasheet>
+      <description>ESP32-S2-DevKitC-1</description>
+      <fields>
+        <field name="Footprint">PCM_Espressif:ESP32-S2-DevKitC-1</field>
+        <field name="Datasheet">https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-s2-devkitc-1.html</field>
+        <field name="Description">ESP32-S2-DevKitC-1</field>
+      </fields>
+      <libsource lib="PCM_Espressif" part="ESP32-S2-DevKitC-1" description="ESP32-S2-DevKitC-1"/>
+      <property name="Sheetname" value="Root"/>
+      <property name="Sheetfile" value="5DOF-Robotic-Arm-PCB_MK1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed52ae3c-38a8-4891-b5f5-5864ca84b36c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Pin">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Socket">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Socket</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x03, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x04, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x09_Socket">
+      <description>Generic connector, single row, 01x09, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x09_Socket</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, single row, 01x09, script generated</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x04">
+      <description>Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x04</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small_US">
+      <description>capacitor, small US symbol</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small_US</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, small US symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_US">
+      <description>capacitor, US symbol</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_US</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">capacitor, US symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5819">
+      <description>40V 1A Schottky Barrier Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88525/1n5817.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5819</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88525/1n5817.pdf</field>
+        <field name="Description">40V 1A Schottky Barrier Rectifier Diode, DO-41</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_Motor" part="Pololu_Breakout_A4988">
+      <description>Pololu Breakout Board, Stepper Driver A4988</description>
+      <docs>https://www.pololu.com/product/2980/pictures</docs>
+      <footprints>
+        <fp>Pololu*Breakout*15.2x20.3mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">A</field>
+        <field name="Value">Pololu_Breakout_A4988</field>
+        <field name="Footprint">Module:Pololu_Breakout-16_15.2x20.3mm</field>
+        <field name="Datasheet">https://www.pololu.com/product/2980/pictures</field>
+        <field name="Description">Pololu Breakout Board, Stepper Driver A4988</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="1B" type="output"/>
+        <pin num="4" name="1A" type="output"/>
+        <pin num="5" name="2A" type="output"/>
+        <pin num="6" name="2B" type="output"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VMOT" type="power_in"/>
+        <pin num="9" name="~{ENABLE}" type="input"/>
+        <pin num="10" name="MS1" type="input"/>
+        <pin num="11" name="MS2" type="input"/>
+        <pin num="12" name="MS3" type="input"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="~{SLEEP}" type="input"/>
+        <pin num="15" name="STEP" type="input"/>
+        <pin num="16" name="DIR" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCM_Espressif" part="ESP32-S2-DevKitC-1">
+      <description>ESP32-S2-DevKitC-1</description>
+      <docs>https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-s2-devkitc-1.html</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ESP32-S2-DevKitC-1</field>
+        <field name="Footprint">PCM_Espressif:ESP32-S2-DevKitC-1</field>
+        <field name="Datasheet">https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/hw-reference/esp32s2/user-guide-s2-devkitc-1.html</field>
+        <field name="Description">ESP32-S2-DevKitC-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="power_in"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="RST" type="input"/>
+        <pin num="4" name="GPIO4/ADC1_CH3" type="bidirectional"/>
+        <pin num="5" name="GPIO5/ADC1_CH4" type="bidirectional"/>
+        <pin num="6" name="GPIO6/ADC1_CH5" type="bidirectional"/>
+        <pin num="7" name="GPIO7/ADC1_CH6" type="bidirectional"/>
+        <pin num="8" name="GPIO15/ADC2_CH4/32K_P" type="bidirectional"/>
+        <pin num="9" name="GPIO16/ADC2_CH5/32K_N" type="bidirectional"/>
+        <pin num="10" name="GPIO17/ADC2_CH6/U1TXD" type="bidirectional"/>
+        <pin num="11" name="GPIO18/ADC2_CH7/U1RXD" type="bidirectional"/>
+        <pin num="12" name="GPIO8/ADC1_CH7" type="bidirectional"/>
+        <pin num="13" name="GPIO3/ADC1_CH2" type="bidirectional"/>
+        <pin num="14" name="GPIO46" type="input"/>
+        <pin num="15" name="GPIO9/ADC1_CH8" type="bidirectional"/>
+        <pin num="16" name="GPIO10/ADC1_CH9" type="bidirectional"/>
+        <pin num="17" name="GPIO11/ADC2_CH0" type="bidirectional"/>
+        <pin num="18" name="GPIO12/ADC2_CH1" type="bidirectional"/>
+        <pin num="19" name="GPIO13/ADC2_CH2" type="bidirectional"/>
+        <pin num="20" name="GPIO14/ADC2_CH3" type="bidirectional"/>
+        <pin num="21" name="5V" type="power_in"/>
+        <pin num="22" name="GND" type="power_in"/>
+        <pin num="23" name="GND" type="power_in"/>
+        <pin num="24" name="GND" type="power_in"/>
+        <pin num="25" name="GPIO19/ADC2_CH8/USB_D-" type="bidirectional"/>
+        <pin num="26" name="GPIO20/ADC2_CH9/USB_D+" type="bidirectional"/>
+        <pin num="27" name="GPIO21" type="bidirectional"/>
+        <pin num="28" name="GPIO33" type="bidirectional"/>
+        <pin num="29" name="GPIO34" type="bidirectional"/>
+        <pin num="30" name="GPIO45" type="bidirectional"/>
+        <pin num="31" name="GPIO0" type="bidirectional"/>
+        <pin num="32" name="GPIO35" type="bidirectional"/>
+        <pin num="33" name="GPIO36" type="bidirectional"/>
+        <pin num="34" name="GPIO37" type="bidirectional"/>
+        <pin num="35" name="GPIO38" type="bidirectional"/>
+        <pin num="36" name="GPIO39/MTCK" type="bidirectional"/>
+        <pin num="37" name="GPIO40/MTDO" type="bidirectional"/>
+        <pin num="38" name="GPIO41/MTDI" type="bidirectional"/>
+        <pin num="39" name="GPIO42/MTMS" type="bidirectional"/>
+        <pin num="40" name="GPIO2/ADC1_CH1" type="bidirectional"/>
+        <pin num="41" name="GPIO1/ADC1_CH0" type="bidirectional"/>
+        <pin num="42" name="GPIO44/U0RXD" type="bidirectional"/>
+        <pin num="43" name="GPIO43/U0TXD" type="bidirectional"/>
+        <pin num="44" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Driver_Motor">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols\/Driver_Motor.kicad_sym</uri>
+    </library>
+    <library logical="PCM_Espressif">
+      <uri>C:\Users\david\OneDrive\Documents\KiCad\9.0\3rdparty\/symbols/com_github_espressif_kicad-libraries/Espressif.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="5V" class="Default">
+      <node ref="A1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A2" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A4" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="A5" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="2" name="12V" class="Default">
+      <node ref="A1" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A2" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A3" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A4" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="A5" pin="8" pinfunction="VMOT" pintype="power_in"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="3" name="A1_DIR" class="Default">
+      <node ref="U1" pin="5" pinfunction="GPIO5/ADC1_CH4" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="A1_MS1" class="Default">
+      <node ref="U1" pin="6" pinfunction="GPIO6/ADC1_CH5" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="A1_MS2" class="Default">
+      <node ref="U1" pin="7" pinfunction="GPIO7/ADC1_CH6" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="A1_MS3" class="Default">
+      <node ref="U1" pin="8" pinfunction="GPIO15/ADC2_CH4/32K_P" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="A1_STEP" class="Default">
+      <node ref="U1" pin="4" pinfunction="GPIO4/ADC1_CH3" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="A2_DIR" class="Default">
+      <node ref="U1" pin="10" pinfunction="GPIO17/ADC2_CH6/U1TXD" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="A2_MS1" class="Default">
+      <node ref="U1" pin="11" pinfunction="GPIO18/ADC2_CH7/U1RXD" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="A2_MS2" class="Default">
+      <node ref="U1" pin="12" pinfunction="GPIO8/ADC1_CH7" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="A2_MS3" class="Default">
+      <node ref="U1" pin="13" pinfunction="GPIO3/ADC1_CH2" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="A2_STEP" class="Default">
+      <node ref="U1" pin="9" pinfunction="GPIO16/ADC2_CH5/32K_N" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="A3_DIR" class="Default">
+      <node ref="U1" pin="15" pinfunction="GPIO9/ADC1_CH8" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="A3_MS1" class="Default">
+      <node ref="U1" pin="16" pinfunction="GPIO10/ADC1_CH9" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="A3_MS2" class="Default">
+      <node ref="U1" pin="17" pinfunction="GPIO11/ADC2_CH0" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="A3_MS3" class="Default">
+      <node ref="U1" pin="18" pinfunction="GPIO12/ADC2_CH1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="A3_STEP" class="Default">
+      <node ref="U1" pin="14" pinfunction="GPIO46" pintype="input"/>
+    </net>
+    <net code="18" name="A4_DIR" class="Default">
+      <node ref="U1" pin="40" pinfunction="GPIO2/ADC1_CH1" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="A4_MS1" class="Default">
+      <node ref="U1" pin="39" pinfunction="GPIO42/MTMS" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="A4_MS2" class="Default">
+      <node ref="U1" pin="38" pinfunction="GPIO41/MTDI" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="A4_MS3" class="Default">
+      <node ref="U1" pin="37" pinfunction="GPIO40/MTDO" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="A4_STEP" class="Default">
+      <node ref="U1" pin="41" pinfunction="GPIO1/ADC1_CH0" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="A5_DIR" class="Default">
+      <node ref="U1" pin="35" pinfunction="GPIO38" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="A5_MS1" class="Default">
+      <node ref="U1" pin="34" pinfunction="GPIO37" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="A5_MS2" class="Default">
+      <node ref="U1" pin="33" pinfunction="GPIO36" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="A5_MS3" class="Default">
+      <node ref="U1" pin="32" pinfunction="GPIO35" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="A5_STEP" class="Default">
+      <node ref="U1" pin="36" pinfunction="GPIO39/MTCK" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="GND" class="Default">
+      <node ref="A1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A2" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A3" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A3" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A4" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="A5" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="A5" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J10" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="29" name="GPIO1" class="Default">
+      <node ref="A4" pin="15" pinfunction="STEP" pintype="input"/>
+    </net>
+    <net code="30" name="GPIO2" class="Default">
+      <node ref="A4" pin="16" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="31" name="GPIO3" class="Default">
+      <node ref="A2" pin="12" pinfunction="MS3" pintype="input"/>
+    </net>
+    <net code="32" name="GPIO4" class="Default">
+      <node ref="A1" pin="15" pinfunction="STEP" pintype="input"/>
+    </net>
+    <net code="33" name="GPIO5" class="Default">
+      <node ref="A1" pin="16" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="34" name="GPIO6" class="Default">
+      <node ref="A1" pin="10" pinfunction="MS1" pintype="input"/>
+    </net>
+    <net code="35" name="GPIO7" class="Default">
+      <node ref="A1" pin="11" pinfunction="MS2" pintype="input"/>
+    </net>
+    <net code="36" name="GPIO8" class="Default">
+      <node ref="A2" pin="11" pinfunction="MS2" pintype="input"/>
+    </net>
+    <net code="37" name="GPIO9" class="Default">
+      <node ref="A3" pin="16" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="38" name="GPIO10" class="Default">
+      <node ref="A3" pin="10" pinfunction="MS1" pintype="input"/>
+    </net>
+    <net code="39" name="GPIO11" class="Default">
+      <node ref="A3" pin="11" pinfunction="MS2" pintype="input"/>
+    </net>
+    <net code="40" name="GPIO12" class="Default">
+      <node ref="A3" pin="12" pinfunction="MS3" pintype="input"/>
+    </net>
+    <net code="41" name="GPIO15" class="Default">
+      <node ref="A1" pin="12" pinfunction="MS3" pintype="input"/>
+    </net>
+    <net code="42" name="GPIO16" class="Default">
+      <node ref="A2" pin="15" pinfunction="STEP" pintype="input"/>
+    </net>
+    <net code="43" name="GPIO17" class="Default">
+      <node ref="A2" pin="16" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="44" name="GPIO18" class="Default">
+      <node ref="A2" pin="10" pinfunction="MS1" pintype="input"/>
+    </net>
+    <net code="45" name="GPIO35" class="Default">
+      <node ref="A5" pin="12" pinfunction="MS3" pintype="input"/>
+    </net>
+    <net code="46" name="GPIO36" class="Default">
+      <node ref="A5" pin="11" pinfunction="MS2" pintype="input"/>
+    </net>
+    <net code="47" name="GPIO37" class="Default">
+      <node ref="A5" pin="10" pinfunction="MS1" pintype="input"/>
+    </net>
+    <net code="48" name="GPIO38" class="Default">
+      <node ref="A5" pin="16" pinfunction="DIR" pintype="input"/>
+    </net>
+    <net code="49" name="GPIO39" class="Default">
+      <node ref="A5" pin="15" pinfunction="STEP" pintype="input"/>
+    </net>
+    <net code="50" name="GPIO40" class="Default">
+      <node ref="A4" pin="12" pinfunction="MS3" pintype="input"/>
+    </net>
+    <net code="51" name="GPIO41" class="Default">
+      <node ref="A4" pin="11" pinfunction="MS2" pintype="input"/>
+    </net>
+    <net code="52" name="GPIO42" class="Default">
+      <node ref="A4" pin="10" pinfunction="MS1" pintype="input"/>
+    </net>
+    <net code="53" name="GPIO46" class="Default">
+      <node ref="A3" pin="15" pinfunction="STEP" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(A1-1A)" class="Default">
+      <node ref="A1" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(A1-1B)" class="Default">
+      <node ref="A1" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(A1-2A)" class="Default">
+      <node ref="A1" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(A1-2B)" class="Default">
+      <node ref="A1" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(A1-~{RESET})" class="Default">
+      <node ref="A1" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A1" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="59" name="Net-(A2-1A)" class="Default">
+      <node ref="A2" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(A2-1B)" class="Default">
+      <node ref="A2" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(A2-2A)" class="Default">
+      <node ref="A2" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(A2-2B)" class="Default">
+      <node ref="A2" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(A2-~{RESET})" class="Default">
+      <node ref="A2" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A2" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="64" name="Net-(A3-1A)" class="Default">
+      <node ref="A3" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(A3-1B)" class="Default">
+      <node ref="A3" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(A3-2A)" class="Default">
+      <node ref="A3" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(A3-2B)" class="Default">
+      <node ref="A3" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(A3-~{RESET})" class="Default">
+      <node ref="A3" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A3" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="69" name="Net-(A4-1A)" class="Default">
+      <node ref="A4" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(A4-1B)" class="Default">
+      <node ref="A4" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(A4-2A)" class="Default">
+      <node ref="A4" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(A4-2B)" class="Default">
+      <node ref="A4" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(A4-~{RESET})" class="Default">
+      <node ref="A4" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A4" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="74" name="Net-(A5-1A)" class="Default">
+      <node ref="A5" pin="4" pinfunction="1A" pintype="output"/>
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(A5-1B)" class="Default">
+      <node ref="A5" pin="3" pinfunction="1B" pintype="output"/>
+      <node ref="J9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(A5-2A)" class="Default">
+      <node ref="A5" pin="5" pinfunction="2A" pintype="output"/>
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(A5-2B)" class="Default">
+      <node ref="A5" pin="6" pinfunction="2B" pintype="output"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(A5-~{RESET})" class="Default">
+      <node ref="A5" pin="13" pinfunction="~{RESET}" pintype="input"/>
+      <node ref="A5" pin="14" pinfunction="~{SLEEP}" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(D1-K)" class="Default">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="5V" pintype="power_in"/>
+    </net>
+    <net code="80" name="Net-(J2-Pin_1)" class="Default">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="31" pinfunction="GPIO0" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="Net-(J2-Pin_2)" class="Default">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="30" pinfunction="GPIO45" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="Net-(J2-Pin_3)" class="Default">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="29" pinfunction="GPIO34" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="Net-(J2-Pin_4)" class="Default">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="GPIO33" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="Net-(J2-Pin_5)" class="Default">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="GPIO21" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="Net-(J2-Pin_6)" class="Default">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="GPIO20/ADC2_CH9/USB_D+" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="Net-(J2-Pin_7)" class="Default">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GPIO19/ADC2_CH8/USB_D-" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="Net-(J2-Pin_8)" class="Default">
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="88" name="Net-(J2-Pin_9)" class="Default">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="89" name="Net-(J3-Pin_2)" class="Default">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GPIO14/ADC2_CH3" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="Net-(J10-Pin_2)" class="Default">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GPIO13/ADC2_CH2" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="Net-(J11-Pin_1)" class="Default">
+      <node ref="J11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="44" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="92" name="Net-(J11-Pin_2)" class="Default">
+      <node ref="J11" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="43" pinfunction="GPIO43/U0TXD" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="Net-(J11-Pin_3)" class="Default">
+      <node ref="J11" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="42" pinfunction="GPIO44/U0RXD" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="Net-(J12-Pin_1)" class="Default">
+      <node ref="J12" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(J12-Pin_2)" class="Default">
+      <node ref="J12" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="96" name="Net-(J12-Pin_3)" class="Default">
+      <node ref="J12" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="97" name="unconnected-(A1-~{ENABLE}-Pad9)" class="Default">
+      <node ref="A1" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+    </net>
+    <net code="98" name="unconnected-(A2-~{ENABLE}-Pad9)" class="Default">
+      <node ref="A2" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+    </net>
+    <net code="99" name="unconnected-(A3-~{ENABLE}-Pad9)" class="Default">
+      <node ref="A3" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+    </net>
+    <net code="100" name="unconnected-(A4-~{ENABLE}-Pad9)" class="Default">
+      <node ref="A4" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+    </net>
+    <net code="101" name="unconnected-(A5-~{ENABLE}-Pad9)" class="Default">
+      <node ref="A5" pin="9" pinfunction="~{ENABLE}" pintype="input"/>
+    </net>
+  </nets>
+</export>
