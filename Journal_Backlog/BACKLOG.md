@@ -1,5 +1,10 @@
 # Journal Backlog: October 24th, 2025 - January 8th 2026
 
+WORK IN PROGRESS
+
+
+------------
+
 ## 12/4/2025: 
 
 ## 12/1/2025: The Waist Continues!!!
