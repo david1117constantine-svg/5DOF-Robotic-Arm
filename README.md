@@ -16,6 +16,18 @@ This is the first passion project of mine that I have actually pursued. I love e
 ## How Does it Work?
 This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that you can find at many online stores, such as StepperOnline or, in my case, Adafruit. The joints in the shoulder, elbow, and wrist pitch axis all use the same gearbox and housing assemblies, making for simpler printing and a common attachment point for new structural designs. You might notice there is no end effector piece on this Arm, and that is intentional. The PCB has two servo headers that can be utilized for many different Griper or Claw style designs, or maybe a suction cup or magnet, who knows the possibilities. The PCB is also made for simple installations, just requiring 
 
+## PCB: Schematic, Footprints, and Renders
+
+#### Schematic:
+<img width="1165" height="824" alt="image" src="https://github.com/user-attachments/assets/5bfaf8ac-7df0-487d-9d19-fb7f5e813fa5" />
+
+#### Footprint:
+<img width="981" height="838" alt="image" src="https://github.com/user-attachments/assets/a67a73c5-bd7d-450b-9d9b-64fb93702eaa" />
+
+#### Render:
+<img width="995" height="834" alt="image" src="https://github.com/user-attachments/assets/20c2cea6-3edb-4c8a-bf0c-1cd59097921e" />
+
+
 
 ## BOM
 | Item                                                    | Quantity   |
