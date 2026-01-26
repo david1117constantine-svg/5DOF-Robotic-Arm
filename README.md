@@ -30,13 +30,13 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 
 
 ## BOM
-| Item                                                    | Quantity   | Total Price ($)   |
+| Item                                                    | Quantity   | Price ($)   |
 |:--------------------------------------------------------|:-----------|:------------------|
 | Self-Sourced                                            |            |                   |
 | Screws - Assorted M3                                    | 2240       | Self-Sourced      |
 | Bearing - 6807 2RS                                      | 5          | Self-Sourced      |
 | Microcontroller - ESP32                                 | 1          | Self-Sourced      |
-| Electronics (Exluding PCB)                              |            |                   |
+| Electronics (Excluding PCB)                              |            |                   |
 | Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA | 5          | 70.00             |
 | Stepper Motor Driver - A4988                            | 5          | 5.12              |
 | Limit Switch                                            | 3          | 0.41              |
@@ -47,7 +47,7 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 | Heat Shrink Tubing - 5mm ID, 5M                         | 1          | 1.90              |
 | Power Supply - DC12V 8A                                 | 1          | 15.43             |
 | Hardware                                                |            |                   |
-| Extrutions - 150mm 2020 T-slot Extrutions 4pcs          | 4          | 17.98             |
+| Extrusions - 150mm 2020 T-slot Extrusions 4pcs          | 4          | 17.98             |
 | Screws - M4x10 Countersunk                              | 4          | 0.02              |
 | Screws - M4x16 BHCS                                     | 8          | 0.09              |
 | T-Nuts - M4 20 Series Profile                           | 12         | 0.09              |
