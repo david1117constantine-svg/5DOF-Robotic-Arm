@@ -1,0 +1,31 @@
+Category,Component,Signal,GPIO Pin
+Motor 1,Waist,STEP,GPIO 1
+,,DIR,GPIO 2
+,,MS1,GPIO 4
+,,MS2,GPIO 5
+,,MS3,GPIO 6
+Motor 2,Shoulder,STEP,GPIO 41
+,,DIR,GPIO 42
+,,MS1,GPIO 17
+,,MS2,GPIO 16
+,,MS3,GPIO 15
+Motor 3,Elbow,STEP,GPIO 39
+,,DIR,GPIO 40
+,,MS1,GPIO 17
+,,MS2,GPIO 16
+,,MS3,GPIO 15
+Motor 4,Wrist Pitch,STEP,GPIO 18
+,,DIR,GPIO 9
+,,MS1,GPIO 17
+,,MS2,GPIO 16
+,,MS3,GPIO 15
+Motor 5,Wrist Roll,STEP,GPIO 11
+,,DIR,GPIO 10
+,,MS1,GPIO 14
+,,MS2,GPIO 13
+,,MS3,GPIO 12
+Servos,Servo 1,PWM,GPIO 7
+,Servo 2,PWM,GPIO 8
+Homing,Limit SW 1,Input,GPIO 38
+,Limit SW 2,Input,GPIO 21
+,Limit SW 3,Input,GPIO 45
