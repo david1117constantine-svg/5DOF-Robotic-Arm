@@ -29,6 +29,21 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 
 ## More Photos:
 
+<img width="781" height="742" alt="Screenshot 2026-01-28 140021" src="https://github.com/user-attachments/assets/c353ee2e-f34b-496f-9570-aac1c028840c" />
+
+
+<img width="771" height="734" alt="Screenshot 2026-01-28 135939" src="https://github.com/user-attachments/assets/59233af7-fb49-4f1c-8400-0e40f64d8fab" />
+
+
+<img width="1080" height="730" alt="Screenshot 2026-01-28 140131" src="https://github.com/user-attachments/assets/d2ffbec3-97b4-4ba7-a5b6-1ed30e95d7f8" />
+
+
+<img width="1043" height="756" alt="Screenshot 2026-01-28 140314" src="https://github.com/user-attachments/assets/6e7d29d7-6ad4-4e51-9e61-8e6f6d02f31a" />
+
+
+<img width="925" height="700" alt="Screenshot 2026-01-28 140333" src="https://github.com/user-attachments/assets/b2b7930c-504c-4e36-a40b-eb1c5e2adcd3" />
+
+<img width="260" height="656" alt="Screenshot 2026-01-28 135904" src="https://github.com/user-attachments/assets/94d84b23-c59b-492b-a244-43f2236a2cac" />
 
 
 ## BOM
