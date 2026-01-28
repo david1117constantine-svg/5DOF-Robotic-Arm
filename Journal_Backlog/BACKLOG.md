@@ -5,14 +5,32 @@ WORK IN PROGRESS
 
 ------------
 
+## 12/22/2025: Holidays are ramping up, and so am I.
+Finally printed the last of the shoulder pieces. Took a few iterations; the first time, I didn't even include all the holes for the screws; too excited, I guess.
+
+![IMG_5961](https://github.com/user-attachments/assets/820593d5-d95d-4d83-a7c4-306750447f88)
+
+![IMG_5962](https://github.com/user-attachments/assets/f39a5fa4-76f9-4ee7-b8bf-e42cf67c6a7d)
+
+Forgot to mention in the last entry that the gear-like hole in the motor side of the shoulder is for the output shaft of a simple planetary gearbox design I found on printables. *(Future me wants to add I did not go with this design, but it's a combination of ProfessorBoots' 4:1 planetary gearboxes and @flolorenzo's 28BYJ48 motor adapter)* One 4:1 gearbox is not enough, according to my calculations, but thankfully, this design is stackable, so I went with two gearboxes, totalling a 16:1 reduction.
+
+![IMG_5964](https://github.com/user-attachments/assets/95e06255-b95d-4a5e-8d6c-fdb7e1bf3999)
+
+## 12/15/2025: Shouler redesign went quite painlessly; lets hope I didnt just jinx anything!
+The new design features what I outlined in the previous entry: removable shoulder arms to allow for easier assembly, one simple loft instead of some really jacked-up ones like in the previous design, and now one side has a groove for a toothed shaft to fit into, allowing the arm to actually turn.
+
+<img width="727" height="647" alt="image" src="https://github.com/user-attachments/assets/bbda72e5-2955-48ee-8fe0-4824179ada1e" />
+
 ## 12/11/2025: CAD sucks, and I'm restarting the shoulder. (Lofts are the bane of my existence)
 
 Been working on the shoulder the past couple of days, finally got something that I was kind of proud of. 
 
+<img width="687" height="630" alt="image" src="https://github.com/user-attachments/assets/7fda78cb-fedd-4a89-86b9-ab32019979d2" />
 
+Honestly, it doesn't look that bad; it isn't that bad, except for a few obvious flaws. First, you will notice that both sides of the shoulder mount have cuts for bearings to sit in. If there are bearings on either side, how is the Upper arm supposed to move? The second major flaw is with the physical construction of the shoulder joint. I think I am going to start over and move towards a design in which I can remove either side of the Shoulder mount arm thingies to aid in assembly. When both sides are fixed, you would basically have to bend them in order to squeeze something into the middle, unless you ran some sort of rod inbetween but I don't think I'm gonna do that.
 
 ## 12/4/2025: New Printer!
-Just got a new 3d printer that's gonna help in printing all the larger peices of the arm! It's a Creality Ender 3 S1, and it was broken when a friend gave it to me but it only took about 20 minutes to fix the software issues, just reflashed the firmware, and it whirred to life.
+Just got a new 3d printer that's gonna help in printing all the larger pieces of the arm! It's a Creality Ender 3 S1, and it was broken when a friend gave it to me, but it only took about 20 minutes to fix the software issues, just reflashed the firmware, and it whirred to life.
 
 ![IMG_5928](https://github.com/user-attachments/assets/dc3f90d4-281e-4155-b77c-097ac1190c30)
 
