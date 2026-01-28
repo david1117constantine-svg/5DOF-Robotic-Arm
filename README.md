@@ -8,7 +8,7 @@ This repository is for my very first Hack Club Blueprint Grant Submission, along
 * ESP32-S3
 * A4988 Drivers
 * Nema 17 Stepper Motors
-* 25:1 Strain Wave Gearbox *Credit to @user_454693624 over on Makerworld*
+* 25:1 Strain Wave Gearbox *Credit to @user_454693624 over on Makerworld (More Details in CAD Directory)*
 
 ## WHY?
 This is the first passion project of mine that I have actually pursued. I love engineering, building computers, and 3d printing. All these hobbies have led to this monstrosity of an endeavour. This arm is meant to be modular, easily printable, and fairly inexpensive for hobbyists to build on their own and tinker with. This project has definitely challenged me in ways I couldn't imagine. I started, naive to the oncoming money pit that the thing would become. That's why I am so thankful to the amazing folks over at Blueprint and Hackclub for supporting students in their pursuit of engineering.
