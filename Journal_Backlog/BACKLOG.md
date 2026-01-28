@@ -1,9 +1,15 @@
 # Journal Backlog: October 24th, 2025 - January 8th 2026
 
-WORK IN PROGRESS
+## 1/8/2026: Instagram to the rescue?
+I was scrolling through Instagram today, as you do, and I saw a reel with a guy talking about how teens can get funding for hardware projects through a program called Blueprint. I think I had seen this before, but only remembered it being with macropads, but apparently not. Ive got nothing to loose so maybe I'll apply for that and see where it leads?
 
+## 1/4/2026: Upper Arm Prototype complete; My suspisions were correct.
+I completed the Upper Arm and did some tests. It seems to lose about 5 degrees from skipping when trying to lift itself from the edges of its range of motion, about 70 degrees in either direction.
 
-------------
+![IMG_6122](https://github.com/user-attachments/assets/4d8d8b23-ce7f-46c3-be35-62d33e547ebd)
+
+At this point, I think this project is going to have to be put on a shelf till I can scrounge up sufficient funding to get some NEMA 17 motors or something similar. Ive already put just over 100 dollars into it, not including filament cost, and its prooving to be a money pit. Unless I get a crazy influx of work or gifts im not sure what I'll do.
+
 ## 1/2/2026: 28BYJ-48's Gotta go, is the project done for?
 A lot happened over New Year's. I designed an upper arm prototype and got it printed on the Ender. Thank goodness I got that cause these parts were pretty big and took all day. Here are some photos of half assembled, the other side was still printing:
 
