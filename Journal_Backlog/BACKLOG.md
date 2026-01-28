@@ -5,6 +5,13 @@ WORK IN PROGRESS
 
 ------------
 
+## 12/24/2025: Its Christmas Eve, and the first iteration of the Upper Arm mount to the shoulder. 
+Prototype? The goal is to have everything internalized so the outside looks super clean. I ran into a ton of issues with jamming the entire motor assembly into the casing. It still doesn't totally fit, but I put the newest version together,r and I can definitely see the vision. 
+
+![IMG_5965](https://github.com/user-attachments/assets/ff6eb031-101c-4c6c-a996-b71b06e71767)
+
+I have been using a little script I wrote that can use serial commands to control a single motor, and the shoulder does move, but with much difficulty, already weight seems like it will be an issue, but until then, that is where I'm at.
+
 ## 12/22/2025: Holidays are ramping up, and so am I.
 Finally printed the last of the shoulder pieces. Took a few iterations; the first time, I didn't even include all the holes for the screws; too excited, I guess.
 
