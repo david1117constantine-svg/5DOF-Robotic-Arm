@@ -4,8 +4,23 @@ WORK IN PROGRESS
 
 
 ------------
-##12/30/2025: Ive done it once, I'll do it again... Redesign time!
+## 1/2/2026: 28BYJ-48's Gotta go, is the project done for?
+A lot happened over New Year's. I designed an upper arm prototype and got it printed on the Ender. Thank goodness I got that cause these parts were pretty big and took all day. Here are some photos of half assembled, the other side was still printing:
 
+![IMG_6111](https://github.com/user-attachments/assets/ce7cb900-bbe1-4975-8d91-43e793e59b2c)
+
+![IMG_6112](https://github.com/user-attachments/assets/4879a7bc-0615-4527-82b7-7a74abd548d6)
+
+![IMG_6114](https://github.com/user-attachments/assets/9ae7e54b-e23f-452d-9657-986a9610cb43)
+
+![IMG_6115](https://github.com/user-attachments/assets/aa8d16d9-fba4-4287-b1f9-e66bd1d4b793)
+
+You can see where I test printed the mount out on the voron so I wouldn't waste filament if it didn't fit, and thank goodness I did because I had goofed on a pin placement. I also designed some struts to go between both halves of the upper arm's frame, and those are currently on the Voron. I fear that once I test the movement of the shoulder joint with the Upper Arm fully assembled, it may be able to lift itself, but nowhere near enough torque to lift anything like this render.
+
+![IMG_6104](https://github.com/user-attachments/assets/b2c02c42-4380-4008-9e90-630ddaea0265)
+
+
+## 12/30/2025: Ive done it once, I'll do it again... Redesign time!
 The initial Upper arm design I've been visualizing in my head is simply far too heavy to even stand a chance of realistically working. Im now going for something almost opposite, a skeleton design. The arm is going to look bare bones, but it will be lighter, maybe even stronger, and pretty easy to prototype with. Plus, saving filament is always a bonus. Ive designed a new piece that fits in the shoulder and consists of two disks connected with 4, strut-like pillars keeping them together. The pillars have holes running all the way through and can be screwed together with M3x25 screws and nuts. After I confirmed all the dimensions with a test print, I added an interface to build the Upper Arm's frame off of. Here's what it looks like in CAD: 
 
 <img width="570" height="455" alt="image" src="https://github.com/user-attachments/assets/c08c84c7-513f-41f3-9ed1-267ea1a7e2b3" />
