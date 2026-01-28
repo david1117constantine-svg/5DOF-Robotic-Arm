@@ -2,7 +2,7 @@
 
 This repository is for my very first Hack Club Blueprint Grant Submission, along with anyone else who wants to watch my progress and build their own 5DOF robot arm.
 
-<img width="920" height="603" alt="image" src="https://github.com/user-attachments/assets/ad5df4c4-09b1-48bf-8512-93b7103acdf2" />
+<img width="962" height="609" alt="image" src="https://github.com/user-attachments/assets/eb163aab-5981-4cd4-a040-13229c3ef69d" />
 
 ## Overview
 * ESP32-S3
