@@ -5,7 +5,18 @@ WORK IN PROGRESS
 
 ------------
 
-## 12/4/2025: 
+## 12/11/2025: CAD sucks, and I'm restarting the shoulder. (Lofts are the bane of my existence)
+
+Been working on the shoulder the past couple of days, finally got something that I was kind of proud of. 
+
+
+
+## 12/4/2025: New Printer!
+Just got a new 3d printer that's gonna help in printing all the larger peices of the arm! It's a Creality Ender 3 S1, and it was broken when a friend gave it to me but it only took about 20 minutes to fix the software issues, just reflashed the firmware, and it whirred to life.
+
+![IMG_5928](https://github.com/user-attachments/assets/dc3f90d4-281e-4155-b77c-097ac1190c30)
+
+![IMG_5929](https://github.com/user-attachments/assets/320b8169-9af6-42f4-bec1-6ec44e589c5b)
 
 ## 12/1/2025: The Waist Continues!!!
 Started printing the next couple of pieces. The inside of the waist is closed off with a type of cap, which also has a tray on top for the bearing to sit in and be screwed into place. 
