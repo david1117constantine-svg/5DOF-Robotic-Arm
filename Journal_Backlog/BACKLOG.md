@@ -4,13 +4,18 @@ WORK IN PROGRESS
 
 
 ------------
+##12/30/2025: Ive done it once, I'll do it again... Redesign time!
+
+The initial Upper arm design I've been visualizing in my head is simply far too heavy to even stand a chance of realistically working. Im now going for something almost opposite, a skeleton design. The arm is going to look bare bones, but it will be lighter, maybe even stronger, and pretty easy to prototype with. Plus, saving filament is always a bonus. Ive designed a new piece that fits in the shoulder and consists of two disks connected with 4, strut-like pillars keeping them together. The pillars have holes running all the way through and can be screwed together with M3x25 screws and nuts. After I confirmed all the dimensions with a test print, I added an interface to build the Upper Arm's frame off of. Here's what it looks like in CAD: 
+
+<img width="570" height="455" alt="image" src="https://github.com/user-attachments/assets/c08c84c7-513f-41f3-9ed1-267ea1a7e2b3" />
 
 ## 12/24/2025: Its Christmas Eve, and the first iteration of the Upper Arm mount to the shoulder. 
 Prototype? The goal is to have everything internalized so the outside looks super clean. I ran into a ton of issues with jamming the entire motor assembly into the casing. It still doesn't totally fit, but I put the newest version together,r and I can definitely see the vision. 
 
 ![IMG_5965](https://github.com/user-attachments/assets/ff6eb031-101c-4c6c-a996-b71b06e71767)
 
-I have been using a little script I wrote that can use serial commands to control a single motor, and the shoulder does move, but with much difficulty, already weight seems like it will be an issue, but until then, that is where I'm at.
+I have been using a little script I wrote that can use serial commands to control a single motor, and the shoulder does move, but with much difficulty. Weight seems like it will be an issue, but until then, that is where I'm at.
 
 ## 12/22/2025: Holidays are ramping up, and so am I.
 Finally printed the last of the shoulder pieces. Took a few iterations; the first time, I didn't even include all the holes for the screws; too excited, I guess.
