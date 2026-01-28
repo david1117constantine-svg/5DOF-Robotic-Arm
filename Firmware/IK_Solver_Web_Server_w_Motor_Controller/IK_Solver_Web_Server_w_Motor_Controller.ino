@@ -16,8 +16,8 @@
 #include <math.h>
 
 // WiFi credentials - UPDATE THESE
-const char* ssid = "ATTvBnWhWa";
-const char* password = "j=x#=sdt8+kg";
+const char* ssid = "SSID";
+const char* password = "PASSWORD";
 
 WebServer server(80);
 
