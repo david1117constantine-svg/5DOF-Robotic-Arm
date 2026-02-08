@@ -45,13 +45,13 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 
 
 ## BOM
-| Item                                                    | Quantity   | Price ($)   |
+| Item                                                    | Quantity   | Total Price ($)   |
 |:--------------------------------------------------------|:-----------|:------------------|
 | Self-Sourced                                            |            |                   |
 | Screws - Assorted M3                                    | 2240       | Self-Sourced      |
 | Bearing - 6807 2RS                                      | 5          | Self-Sourced      |
 | Microcontroller - ESP32                                 | 1          | Self-Sourced      |
-| Electronics (Excluding PCB)                             |            |                   |
+| Electronics (Excluding PCB)                              |            |                   |
 | Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA | 5          | 70.00             |
 | Stepper Motor Driver - A4988                            | 5          | 5.12              |
 | Limit Switch                                            | 3          | 0.41              |
@@ -59,7 +59,7 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 | Wire Connectors - JST xh 2.54 2Pin 10pcs                | 1          | 1.51              |
 | Wire Connectors - JST xh 2.54 4Pin 10pcs                | 1          | 2.02              |
 | Wire - General Purpose 28 Gauge Wire                    | 1          | 9.66              |
-| Heat Shrink Tubing - 5mm ID, 5M                         | 1          | 1.90              |
+| Heat Shrink Tubing - 5mm ID, 5M                         | 1          | 3.28              |
 | Power Supply - DC12V 8A                                 | 1          | 15.43             |
 | Hardware                                                |            |                   |
 | Extrusions - 150mm 2020 T-slot Extrusions 4pcs          | 4          | 17.98             |
@@ -76,7 +76,7 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 | Capacitor - 0.1uF Capacitor                             | 5          | 0.62              |
 | Capacitor - 47uF                                        | 1          | 0.90              |
 | Capacitor - 1000uF                                      | 2          | 1.33              |
-| Screw Terminal - 2 Pin                                  | 3          | 1.84              |
+| Screw Terminal - 2 Pin                                  | 3          | 1.04              |
 | Schottky Diode - 1N5819                                 | 2          | 0.06              |
 | Female Pin Headers - 1x22                               | 2          | 0.80              |
 | Female Pin Headers - 1x8                                | 10         | 0.59              |
