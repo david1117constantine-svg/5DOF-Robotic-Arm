@@ -51,25 +51,25 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 | Screws - Assorted M3                                    | 2240       | Self-Sourced      |
 | Bearing - 6807 2RS                                      | 5          | Self-Sourced      |
 | Microcontroller - ESP32                                 | 1          | Self-Sourced      |
-| Electronics (Excluding PCB)                              |            |                   |
+| Electronics (Exluding PCB)                              |            |                   |
 | Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA | 5          | 70.00             |
-| Stepper Motor Driver - A4988                            | 5          | 5.12              |
+| Stepper Motor Driver - A4988                            | 5          | 3.66              |
 | Limit Switch                                            | 3          | 0.41              |
-| Buck Converter - 12v to 5v, 5A                          | 1          | 2.96              |
-| Wire Connectors - JST xh 2.54 2Pin 10pcs                | 1          | 1.51              |
-| Wire Connectors - JST xh 2.54 4Pin 10pcs                | 1          | 2.02              |
-| Wire - General Purpose 28 Gauge Wire                    | 1          | 9.66              |
+| Buck Converter - 12v to 5v, 5A                          | 1          | 2.98              |
+| Wire Connectors - JST xh 2.54 2Pin 10pcs                | 1          | 1.39              |
+| Wire Connectors - JST xh 2.54 4Pin 10pcs                | 1          | 1.86              |
+| Wire - General Purpose 28 Gauge Wire                    | 1          | 9.28              |
 | Heat Shrink Tubing - 5mm ID, 5M                         | 1          | 3.28              |
 | Power Supply - DC12V 8A                                 | 1          | 15.43             |
 | Hardware                                                |            |                   |
-| Extrusions - 150mm 2020 T-slot Extrusions 4pcs          | 4          | 17.98             |
+| Extrutions - 150mm 2020 T-slot Extrutions 4pcs          | 4          | 18.05             |
 | Screws - M4x10 Countersunk                              | 4          | 0.02              |
 | Screws - M4x16 BHCS                                     | 8          | 0.09              |
 | T-Nuts - M4 20 Series Profile                           | 12         | 0.09              |
 | Heat Inserts - M3x4x5                                   | 100        | 4.18              |
 | NEMA 17 Strain Wave Gearbox (OpenSource) BOM            |            |                   |
-| Bearings  - 6706 2RS                                    | 5          | 4.33              |
-| Bearings - 605ZZ                                        | 10         | 1.96              |
+| Bearings  - 6706 2RS                                    | 5          | 4.35              |
+| Bearings - 605ZZ                                        | 10         | 0.99              |
 | Bearings - 4mm Balls                                    | 200        | 6.28              |
 | PCB Components                                          |            |                   |
 | Capacitor - 100uF 16V Capacitor                         | 5          | 0.70              |
