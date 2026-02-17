@@ -16,6 +16,9 @@ This is the first passion project of mine that I have actually pursued. I love e
 ## How Does it Work?
 This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that you can find at many online stores, such as StepperOnline or, in my case, Adafruit. The joints in the shoulder, elbow, and wrist pitch axis all use the same gearbox and housing assemblies, making for simpler printing and a common attachment point for new structural designs. You might notice there is no end effector piece on this Arm, and that is intentional. The PCB has two servo headers that can be utilized for many different Griper or Claw style designs, or maybe a suction cup or magnet, who knows the possibilities. The PCB is also made for simple installations, simply requiring you to insert your ESP32, motor drivers, servos, etc.
 
+## How To Use It?
+One of the major design philosophies behind this project was to build a platform that could be used to test different control mechanisms. As I wrote in the blueprint submission page, I plan to attempt control with a BCI device if I can get my hands on one. To set up the arm, compile and upload the firmware with Arduino IDE, and plug the board into the PCB. I suggest running the code over USB to get a serial output, this will provide you with an IP which you can go to and control the Arm over wifi with the device of your choice. *Note you must replace the SSID and PASSWORD fields with your wifi credentials to let the board connect to wifi. The web GUI is fairly straightforward with multiple ways of interacting with the arm, whether that be individual joint movements or Cartesian Coordinates, though the IK solver has not been refined enough yet for that system to work as intended.
+
 ## PCB: Schematic, Footprints, and Renders
 
 #### Schematic:
