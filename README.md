@@ -45,38 +45,38 @@ This 5DOF Arm is powered by 5 NEMA 17 34mm 0.35A 12V 1.8deg Stepper Motors that 
 
 
 ## BOM
-| Item                                                    | Quantity   | Total Price ($)   |
-|:--------------------------------------------------------|:-----------|:------------------|
-| Self-Sourced                                            |            |                   |
-| Screws - Assorted M3                                    | 2240       | Self-Sourced      |
-| Bearing - 6807 2RS                                      | 5          | Self-Sourced      |
-| Microcontroller - ESP32                                 | 1          | Self-Sourced      |
-| Electronics (Exluding PCB)                              |            |                   |
-| Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA | 5          | 70.00             |
-| Stepper Motor Driver - A4988                            | 5          | 3.66              |
-| Limit Switch                                            | 3          | 0.41              |
-| Buck Converter - 12v to 5v, 5A                          | 1          | 2.98              |
-| Wire Connectors - JST xh 2.54 2Pin 10pcs                | 1          | 1.39              |
-| Wire Connectors - JST xh 2.54 4Pin 10pcs                | 1          | 1.86              |
-| Wire - General Purpose 28 Gauge Wire                    | 1          | 9.28              |
-| Heat Shrink Tubing - 5mm ID, 5M                         | 1          | 3.28              |
-| Power Supply - DC12V 8A                                 | 1          | 15.43             |
-| Hardware                                                |            |                   |
-| Extrutions - 150mm 2020 T-slot Extrutions 4pcs          | 4          | 18.05             |
-| Screws - M4x10 Countersunk                              | 4          | 0.02              |
-| Screws - M4x16 BHCS                                     | 8          | 0.09              |
-| T-Nuts - M4 20 Series Profile                           | 12         | 0.09              |
-| Heat Inserts - M3x4x5                                   | 100        | 4.18              |
-| NEMA 17 Strain Wave Gearbox (OpenSource) BOM            |            |                   |
-| Bearings  - 6706 2RS                                    | 5          | 4.35              |
-| Bearings - 605ZZ                                        | 10         | 0.99              |
-| Bearings - 4mm Balls                                    | 200        | 6.28              |
-| PCB Components                                          |            |                   |
-| Capacitor - 100uF 16V Capacitor                         | 5          | 0.70              |
-| Capacitor - 0.1uF Capacitor                             | 5          | 0.62              |
-| Capacitor - 47uF                                        | 1          | 0.90              |
-| Capacitor - 1000uF                                      | 2          | 1.33              |
-| Screw Terminal - 2 Pin                                  | 3          | 1.04              |
-| Schottky Diode - 1N5819                                 | 2          | 0.06              |
-| Female Pin Headers - 1x22                               | 2          | 0.80              |
-| Female Pin Headers - 1x8                                | 10         | 0.59              |
+| Item                                                    | Quantity   | Total Price ($)   | Link                                                                                                                                                                     |
+|:--------------------------------------------------------|:-----------|:------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Self-Sourced                                            |            |                   |                                                                                                                                                                          |
+| Screws - Assorted M3                                    | 2240       | Self-Sourced      |                                                                                                                                                                          |
+| Bearing - 6807 2RS                                      | 5          | Self-Sourced      | [Link](https://www.amazon.com/XIKE-6807-2RS-Bearings-35x47x7mm-Pre-Lubricated/dp/B09D2ZHNPH/ref=sr_1_4)                                                                   |
+| Microcontroller - ESP32                                 | 1          | Self-Sourced      | [Link](https://www.aliexpress.us/item/3256809776335245.html)                                                                                                              |
+| Electronics (Exluding PCB)                              |            |                   |                                                                                                                                                                          |
+| Stepper motor - NEMA-17 size - 200 steps/rev, 12V 350mA | 5          | 70.00             | [Link](https://www.google.com/search?q=NEMA+17+stepper+motor)                                                                                                            |
+| Stepper Motor Driver - A4988                            | 5          | 3.66              | [Link](https://www.aliexpress.us/item/3256808219893938.html)                                                                                                              |
+| Limit Switch                                            | 3          | 0.41              | [Link](https://www.lcsc.com/product-detail/C50395955.html)                                                                                                               |
+| Buck Converter - 12v to 5v, 5A                          | 1          | 2.98              | [Link](https://www.aliexpress.us/item/3256810527502423.html)                                                                                                              |
+| Wire Connectors - JST xh 2.54 2Pin 10pcs                | 1          | 1.39              | [Link](https://www.aliexpress.us/item/3256808413328991.html)                                                                                                              |
+| Wire Connectors - JST xh 2.54 4Pin 10pcs                | 1          | 1.86              | [Link](https://www.aliexpress.us/item/3256808413328991.html)                                                                                                              |
+| Wire - General Purpose 28 Gauge Wire                    | 1          | 9.28              | [Link](https://www.aliexpress.us/item/3256805264336680.html)                                                                                                              |
+| Heat Shrink Tubing - 5mm ID, 5M                         | 1          | 3.28              | [Link](https://www.aliexpress.us/item/3256806019046145.html)                                                                                                              |
+| Power Supply - DC12V 8A                                 | 1          | 15.43             | [Link](https://www.aliexpress.us/item/3256801543468653.html)                                                                                                              |
+| Hardware                                                |            |                   |                                                                                                                                                                          |
+| Extrutions - 150mm 2020 T-slot Extrutions 4pcs          | 4          | 18.05             | [Link](https://www.aliexpress.us/item/3256808366074196.html)                                                                                                              |
+| Screws - M4x10 Countersunk                              | 4          | 0.02              | [Link](https://jlcmc.com/product/s/E02/EDLJ/din-7991-gb-t-70.3-hex-socket-countersunk-head-screw)                                                                        |
+| Screws - M4x16 BHCS                                     | 8          | 0.09              | [Link](https://jlcmc.com/product/s/E02/EDLG/iso-7380-hex-socket-button-head-screw)                                                                                       |
+| T-Nuts - M4 20 Series Profile                           | 12         | 0.09              | [Link](https://jlcmc.com/product/s/T02/TPAA/m3-m4-m5-t-nut-20-series-aluminum-profile-fasteners)                                                                         |
+| Heat Inserts - M3x4x5                                   | 100        | 4.18              | [Link](https://www.aliexpress.us/item/3256807712431371.html)                                                                                                              |
+| NEMA 17 Strain Wave Gearbox (OpenSource) BOM            |            |                   | [Link](https://makerworld.com/en/models/1303481-nema-17-strain-wave-gearbox#profileId-1336298)                                                                           |
+| Bearings  - 6706 2RS                                    | 5          | 4.35              | [Link](https://www.aliexpress.us/item/3256806677694798.html)                                                                                                              |
+| Bearings - 605ZZ                                        | 10         | 0.99              | [Link](https://www.aliexpress.us/item/3256801622664412.html)                                                                                                              |
+| Bearings - 4mm Balls                                    | 200        | 6.28              | [Link](https://www.aliexpress.us/item/3256807297992129.html)                                                                                                              |
+| PCB Components                                          |            |                   |                                                                                                                                                                          |
+| Capacitor - 100uF 16V Capacitor                         | 5          | 0.70              | [Link](https://www.lcsc.com/product-detail/C31190.html)                                                                                                                  |
+| Capacitor - 0.1uF Capacitor                             | 5          | 0.62              | [Link](https://www.lcsc.com/product-detail/C14663.html)                                                                                                                  |
+| Capacitor - 47uF                                        | 1          | 0.90              | [Link](https://www.lcsc.com/product-detail/C3540.html)                                                                                                                   |
+| Capacitor - 1000uF                                      | 2          | 1.33              | [Link](https://www.lcsc.com/product-detail/C31154.html)                                                                                                                  |
+| Screw Terminal - 2 Pin                                  | 3          | 1.04              | [Link](https://www.aliexpress.us/item/2251832049646879.html)                                                                                                              |
+| Schottky Diode - 1N5819                                 | 2          | 0.06              | [Link](https://www.lcsc.com/product-detail/C2132.html)                                                                                                                   |
+| Female Pin Headers - 1x22                               | 2          | 0.80              | [Link](https://www.lcsc.com/product-detail/C474775.html)                                                                                                                 |
+| Female Pin Headers - 1x8                                | 10         | 0.59              | [Link](https://www.aliexpress.us/item/3256804116522266.html)                                                                                                              |
